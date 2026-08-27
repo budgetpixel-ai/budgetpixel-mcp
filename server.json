@@ -1,0 +1,17 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-09-29/server.schema.json",
+  "name": "com.budgetpixel/mcp",
+  "description": "Generate AI images, video, music, and sound effects, and upscale them, from any MCP client.",
+  "repository": {
+    "url": "https://github.com/budgetpixel-ai/budgetpixel-mcp",
+    "source": "github"
+  },
+  "version": "1.0.0",
+  "websiteUrl": "https://budgetpixel.com/mcp",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.budgetpixel.com/mcp"
+    }
+  ]
+}
