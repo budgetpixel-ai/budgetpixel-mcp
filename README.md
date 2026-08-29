@@ -74,7 +74,7 @@ accept URLs only.
 ## Requirements
 
 A BudgetPixel account. Browsing the model catalog is free; generation, upscaling, uploads,
-and publishing require a Premium, Pro, or Ultra plan — see
+and publishing require any paid plan (Starter, Basic, Premium, Pro or Ultra) — see
 [budgetpixel.com/pricing](https://budgetpixel.com/pricing).
 
 Video is billed per second and by resolution, so confirm cost before long or high-resolution
